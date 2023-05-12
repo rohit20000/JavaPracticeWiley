@@ -1,9 +1,2 @@
-/**
- * 
- */
-/**
- * @author acer
- *
- */
-module WileyCoreJava {
+module javaCoreCollections {
 }
